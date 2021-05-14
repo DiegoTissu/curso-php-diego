@@ -1,5 +1,4 @@
 <?php
-
 //Meus dados
 $nome = "Diego";
 $idade = "31";
