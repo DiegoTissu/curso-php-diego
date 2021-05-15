@@ -1,6 +1,6 @@
 <?php
 //Meus dados
-$nome = "Diego Miranda";
+$nome = "Jean Paul";
 $idade = "31";
 $altura = "1,86";
 
