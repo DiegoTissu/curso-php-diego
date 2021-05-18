@@ -1,6 +1,6 @@
 <?php
 
-//Variaveis variaveis
+//Variáveis dinâmicas
     $carro = "Hilux";
     $$carro = "Sucata";
 
