@@ -83,5 +83,5 @@
 
          /*********** Especiais ************/
         //null
-            /*$cidade = null;
-            var_dump($cidade);*/
+            $cidade = null;
+            var_dump($cidade);
