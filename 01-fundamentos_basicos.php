@@ -14,7 +14,6 @@
 
     echo "Meu nome é Diego <br>";
     echo "Minha idade é 31";
-    teste
 
     ?>
 
