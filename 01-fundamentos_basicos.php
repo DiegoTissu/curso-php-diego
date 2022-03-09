@@ -12,8 +12,8 @@
 
     /* Testando meu primento código PHP */
 
-    echo "Meu nome é Diego <br>";
-    echo "Minha idade é 31";
+    echo "Meu nome é Diego. <br>";
+    echo "Minha idade é 31.";
 
     ?>
 
