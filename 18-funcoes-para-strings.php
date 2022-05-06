@@ -52,4 +52,8 @@ $texo = "A Seleção Argentina será a campeã da copa do mundo de 2022.";
 $novoTexto = str_replace("Argentina", "Brasileira", $texto);
 echo $novoTexto;
 
+echo "<hr>";
+
+echo strpos($texto, "copa");
+
 
